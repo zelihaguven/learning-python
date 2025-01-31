@@ -4,6 +4,9 @@ Merhaba! 🎉
 
 Bu repoda, Python eğitimi süresince aldığım notları paylaşıyorum. Notlarım, Python programlama dilinin temel kavramlarını ve uygulamalarını kapsamaktadır. Amacım, öğrendiklerimi başkalarıyla paylaşarak hem kendi öğrenimimi pekiştirmek hem de diğer öğrenicilere yardımcı olmaktır.
 
+## Notlarım
+https://share.evernote.com/note/bfb58e96-eb77-a805-d3e4-5194a845c17c
+
 ## İçerik
 
 ### 1. Veri Yapıları
