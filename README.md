@@ -33,4 +33,4 @@ These notes provide a general overview of Python, while also diving into specifi
 
 # Contact
 
-## My LinkedIn Profile: https://www.linkedin.com/in/zeliha-ilg%C4%B1n-g%C3%BCven-833948295/
+My LinkedIn Profile: https://www.linkedin.com/in/zelihaguven/
