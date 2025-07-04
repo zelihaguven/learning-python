@@ -73,9 +73,6 @@ These sections aim to demystify the theory behind data analysis and machine lear
 
 This repository is both a **personal learning archive** and a **reference hub** for beginner-to-intermediate Python learners interested in data science.
 
-The `notebooks/` folder contains Jupyter notebooks with commented code and markdown explanations.
-
-🔗 **Note**: Example datasets are either publicly available or included as CSVs in the `datasets/` folder.  
 > Notebook link : https://share.evernote.com/note/bfb58e96-eb77-a805-d3e4-5194a845c17c
 
 ---
