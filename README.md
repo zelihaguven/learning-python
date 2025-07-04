@@ -1,36 +1,36 @@
-# Python Eğitim Notlarım
+# Python Learning Notes
 
-Merhaba! 🎉
+## Hello! 🎉
 
-Bu repoda, Python eğitimi süresince aldığım notları paylaşıyorum. Notlarım, Python programlama dilinin temel kavramlarını ve uygulamalarını kapsamaktadır. Amacım, öğrendiklerimi başkalarıyla paylaşarak hem kendi öğrenimimi pekiştirmek hem de diğer öğrenicilere yardımcı olmaktır.
+In this repository, I'm sharing the notes I took throughout my Python learning journey. These notes cover the fundamental concepts and applications of the Python programming language. My goal is to reinforce my own learning by documenting what I’ve learned and also to support other learners who are on a similar path.
 
-## Notlarım
-https://share.evernote.com/note/bfb58e96-eb77-a805-d3e4-5194a845c17c
+Throughout the notes, you’ll also find examples and snippets from real coding exercises and challenges I encountered during my learning process.
 
-## İçerik
+# Notes
 
-### 1. Veri Yapıları
-- Listeler
-- Demetler
-- Sözlükler
-- Kümeler
+Evernote Link
 
-### 2. Fonksiyonlar
-- Fonksiyon tanımlama
-- Parametreler ve dönüş değerleri
-- Lambda fonksiyonları
+# Contents
 
-### 3. Hata Yönetimi
-- Try-except blokları
+## 1. Data Structures
+Lists
+Tuples
+Dictionaries
+Sets
+## 2. Functions
+Defining functions
+Parameters and return values
+Lambda functions
+## 3. Error Handling
+Try-except blocks
+## 4. Object-Oriented Programming (OOP)
+Classes and objects
+Inheritance
 
-### 4. Nesne Yönelimli Programlama (OOP)
-- Sınıflar ve nesneler
-- Miras alma
+# Note
 
-# Dipnot : 
- notlarım genel bir hattı kapsamakla birlikte, özel birkaç konuya ve örneklere yer vermektedir. 
- 
-## İletişim
-- Linkedin Profilim : https://www.linkedin.com/in/zeliha-ilg%C4%B1n-g%C3%BCven-833948295/
+These notes provide a general overview of Python, while also diving into specific topics and practical examples based on challenges I’ve worked on.
 
-Umarım bu notlar, Python öğrenme yolculuğunuzda size yardımcı olur. İyi Günler! 🚀
+# Contact
+
+## My LinkedIn Profile: https://www.linkedin.com/in/zeliha-ilg%C4%B1n-g%C3%BCven-833948295/
