@@ -8,7 +8,7 @@ Throughout the notes, you’ll also find examples and snippets from real coding 
 
 # Notes
 
-Evernote Link
+link will be back soon :)
 
 # Contents
 
